@@ -1,5 +1,6 @@
 # AndroidDryRun
-For each of the questions below, answer as if you were in an interview, explaining and justifying your answer with two to three paragraphs as you see fit. For coding answers, explain the relevant choices you made writing the code.
+
+For each of the questions below, answer by explaining and justifying your answer with two to three paragraphs as you see fit. For coding answers, explain the relevant choices you made writing the code.
 
 Question 1 - What’s your favorite tool or library for Android? Why is it so useful?
 
